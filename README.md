@@ -3,3 +3,5 @@ This is a program where I practice writing code with hidden and noticable functi
 
 Some things in the human body happens without us having to think about it, if the brain is up and running, the functions run.
 My goal is to try to write a human ish system, with the basics like, heart, brain, stomach, but as the project goes on, getting into details like nervous-system and chemical interaction.
+
+First we need the basics: Heart, Lungs, Brain. These three need to cooperate and when they do, we have life in the body.
